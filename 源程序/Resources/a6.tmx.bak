@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="捕获(已去底)" tilewidth="8" tileheight="8">
+  <image source="捕获(已去底).png" width="499" height="232"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2EsKwzAMRdGMuoTuf6mlg0LoNwm19RTOAc+LLim2lgWgh+ul+hewdu+hSY5HD00yrHtoUu+5hya13vXQpM6nHprU+NZDk/l+9dBkri09NJlnaw9N5tjTQ5Px9vbQZKwjPTQZ52gP/caY1UOfHLrl893143+zP9360qwnjfrRAwAAXrkf1/F+rOM9n0WPenaSOeyIa5l7Fg2ymH0W88/Ssce/7hwdTpLqWSScLnNnHHMHAKAb99cs3hRZvK+z2IFk6bZDO7vqveiZj/lnnSM9bhKiVYk=
+  </data>
+ </layer>
+</map>

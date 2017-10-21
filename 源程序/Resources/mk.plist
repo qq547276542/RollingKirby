@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--Honghaier Game Editor : Version 1.0 -->
+<plist version="1.0">
+<dict>
+<key>frames</key>
+<dict>
+<key>mk1</key>
+<dict>
+<key>frame</key>
+<string>{{0,157},{202,58}}</string>
+<key>offset</key>
+<string>{0,0}</string>
+<key>rotated</key><false/>
+<key>sourceColorRect</key>
+<string>{{0,157},{202,58}}</string>
+<key>sourceSize</key>
+<string>{202,58}</string>
+</dict>
+</dict>
+<key>metadata</key>
+<dict>
+<key>format</key>
+<integer>2</integer>
+<key>realTextureFileName</key>
+<string>mk.png</string>
+<key>size</key>
+<string>{202,220}</string>
+<key>TextureFileName</key>
+<string>mk.png</string>
+</dict>
+</dict>
+</plist>

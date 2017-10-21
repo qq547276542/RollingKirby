@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="qiao" tilewidth="8" tileheight="8">
+  <image source="qiao.png" width="128" height="128"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2sVWEGAURWFewW4RW2wFE7sDCxtQMVARuztRUbGwsUGxu7sTO7EfhT1l5uze9a+z1/qGd3aGNyJCKaWUUkoppZRSSimllFJKKftKoCRKoTTKoCzKoTwqoCIqoTKqoCoiUS2Ae29FoTpqoCZqoTbqoC7qIRr10QAN0QiN0SSAe281RTM0Rwxi0QIt0Qqt0QZtEYd2aI8O6BjAvbc6oTO6oCu6oTt6oCd6oTf6oC/i0Q/9MSCAe28NxCAkYDCGYCiGYThGYCQSkYRkjMJojAng3lspGItxGI8JSMVETMJkpGEK0jEV0zAdMwK499ZMzMJszMFczMN8LMBCLMJiLMFSLMNyrAjg3lsrsQqrsQYZWIt1WI9MbMBGbEIWNmMLtgZw761t2I5s7MBO7MJu7MFe7EMO9uMADuIQDgdw760jOIpc5OEYjiMfJ3ASp3AaZ3AW53AeFwK499ZFXMJlXMFVXMN13MBN3MJt3MFd3MN9PAjg3lsP8QiP8QRP8QzP8QIv8QqvUYA3eIt3eB/Avbc+4CM+4TO+4Cu+4TsK8QM/8Qu/8Qd/8S+Ae6WUUkoppZRS/5f+D3xl/X+gPRTP+v/Aeg/esv4/sN6Dt6z/D6z34C3r/wPrPXjL+v/Aeg/esv4/sN6Dt6z/D6z34C3r/wPrPXjL+v/Aeg/esv4/sN6Dt6z/D6z3oIpnvQellFJKKaWU8l4RFAYPbg==
+  </data>
+ </layer>
+</map>

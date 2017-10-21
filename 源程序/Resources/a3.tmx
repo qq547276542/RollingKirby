@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="ph" tilewidth="8" tileheight="8">
+  <image source="ph.png" width="499" height="232"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2stOU1EUgOFNlcaxKILgKyByp6CCTyTKpaACzySXlqs+kiJ3kPg35ExOjieQY3ED/5f8k5UV2uw16YAQJEm6vs0H//sbKM2bxMebxMebxMebxMebxMebxMebxMebxMebxMebxKdxk6skSZKk263xm26LtmmHdukbfU/Nkr28fRV3zDue0Cmd0Tn9povULNnL21dxQw9DGKYRGqUKjdF4apbs5e2ruGnecYZmaY6qNE8LqVmyl7d/3z1quayIr7zjCq3SGq1TjeqpWbKXt3/f/Yt7/OAdf9Ie/aJ9OqDD1CzZy9u/ix6XQ2ijJ/SU2ukZdVAnPaeu8tX3uulF+e+f19MawkvqpVfUR/00kJole3n7d9FN30OSJEmSJEmSJEmSJN0OlZYQxmicXtMbeksTNEnvCv6Pja6nynvP0wJ9os/0hRZpiZa9x41a571rVKcN2qQt2qYd2vUeTbOf8baN2QEd0hEd0wmd0hmde4+m6SuF0F/Kng3QIA3RMI3QKFVK2X9Lxb3nbafoQyl79pGmaYZmaY6q3kOSJKkp/gAztIYa
+  </data>
+ </layer>
+</map>

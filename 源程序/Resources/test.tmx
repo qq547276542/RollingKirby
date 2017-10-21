@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="mubangdfsfs" tilewidth="8" tileheight="8">
+  <image source="mubang.png" width="160" height="15"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt3M1ygjAUBlD6a6u12tb3f1a/jTtloiQB7Tkz38qIuVwWkIkMQ1tP/yDPyUvymrwl78kq+Ug+k3WySb6SbfKd7JJ98pP8Jn+3nmAAAAAAABZtbB259brzoUN9AABwTs372luOVfIdez4AAAAAAACAR1R7H+K148dSYz5TMse+y9r9OBSOOaVk3JS5TK1l7LOWWvTlUnpd5y3r4HotrjEAAP89Wxb9WJZWz3lz6Pnuw5Y1ls71Xt4TeenZ+576MjbPWnWU/sbcfVtCP4Yzddc+Bz3XwHoGAHo7AtFmHjo=
+  </data>
+ </layer>
+</map>

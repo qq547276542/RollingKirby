@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="xuedi_tukuai" tilewidth="8" tileheight="8">
+  <image source="xuedi_tukuai.png" width="367" height="289"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2jWPFVEAhuHZe2cWp0BWkQTX3wArOAmuLdbACk6Ca4s1sIKT4NpiHa4JriWsIAmub0lxiynumXMm873J05xqcjLJl0nG85RSSimllFJKKaXU/83CbMzBXMyz+ziJbyu2YTt2YKfdx0l8F3ARl3AZV6w+jXqHBjSiCc12Hyfx5ed4XgEKUYTiHG2KzTLthzbFXpn2Q5tir0z7oU2xV6b9CLsp2pnsF3Y/tDPRFHY/bO9Mx5TndUJn5CEfHVJmz20Udj9s78xQ7qcEpShDOYakzJ7bKOx+hD0z1QLupwKVqEI15qfMntsoLvuxm/upQS3qUI9dKbPnNorLfiSluOxHUorLfiSluOxHUtJ+uJX2w620H26l/XAr7YdbaT/cSvvhVtoPt9J+uJX2w620H26l/XAr7YdbaT/cSvvhVtoPt8r2fkT9j1RczsOW7f2I+h+puJyHLdv7EfU/UnE5f5vm/UUDGtGEZrzHB3zEp3T29yPqf6Ticp7n8/6iAIUoQjG6oCu6obuv7w/TlXDHpShDOYZhOEZgJEZhNMZgrK/vD9NVcMeVqEI1FmIRFmMJlmIZlmOFr+8P09Vwx7WoQz32YC/2YT8O4CAO4bCv7w/TXeWOr+E6buAmbuE27uAu7uE+Hmg/jPeZO/6Cr/iG7/iBn/iF3/iDv/AC7YfpenDHPdELvdEHfdEP/TEAAzEIgwPth+nGccfjMQETMQmTMQVTMQ3TMQMzA+2H6VZyx6uwGmuwFuuwHhuwEZuwGVsC7YfpjnDHR3EMx3ECJ3EKp3EGZ3EO57UfxnvIHT/CYzzBUzzDc7zAS7zCa7zRfhgvnet5PgLkogVaohVaow3aoh3a4x97btq/
+  </data>
+ </layer>
+</map>

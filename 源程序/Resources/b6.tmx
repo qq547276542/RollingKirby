@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="xuedi_tukuai" tilewidth="8" tileheight="8">
+  <image source="xuedi_tukuai.png" width="367" height="289"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1ldOxUAMheFcWARtebSl8EpbDC+07dDWgF8ioaspx75JMOH/JEswTGaceArDAAAAAAAAAAD4Dx72+tF6tvV77xlv/13mVfqp30Cdbwred/PUcbsWnvdWflbynaJvtnr09k3vGfU71+pVGkeZO7JmauMtQfnOtW+qrHPl7FHzVMfw7ovWu3jXwS62z59Wn2hOnnr09od6x0W16jB3PSJrwLM/lHmUNe85S0tr21PD1vxz1kO9Q3vPeeby3CXKvRG56z37spTTUiL/r0T2R28+dX1G1pO6z5T55xathzJGpB6t/VEbr7UuIu8XHWMK2epRalPnW2r+OS15XkX7Rv6/Kj2j3Pm1PgAAAAAAAAAAAAAAAAAAAL/l1OLM4tziwuJyRW1/8RtcW9xY3FrcWdyvqE2VKedHiyeLZ4sXi9cVtY2u9ssxypTzm8W7xYfFp8XXitrGWtSMf8uU88FmGA4tjiyOLU4262lr1eJnTTLlnOnsnLpNrUemnDOdnXPdHz2Zcs50ds5xfygy5Zzp7Jy6TZUp529naYq5
+  </data>
+ </layer>
+</map>

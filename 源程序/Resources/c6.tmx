@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="taikong_tukuai" tilewidth="8" tileheight="8">
+  <image source="taikong_tukuai.png" width="424" height="276"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2kdrVGEUh/E3uUmwr4wVux9B01Swu7e70q2macDu3u5Kt5qmgt293Y+gaSrY3dtd+mgmcDO8GWaQ4Zwr/wd+izeXgcN5uQSSCUF5ak9iPYFK9+c+dCd+GrkP3YmP0vehO7Ev/z50J7btzt1Bs+7ERRfZ/SV06j1x0TP2/hx9SfxdUXaN9a4om2Lviu7ER7F3Rdk11u8VZV/6XVH2pd8VpZRSSimVzVZWh7AKq7EGa7EO67Gh2nq64vtSURqv7WfnB3AQh3AYR3AUxzJ0H3XMWo8GNKIJy7AcKyJnr11jtuu4gZu4hdu4g7uO586vmVlb0Io2tGMv9qEjcvbaa2Z7g7d4h/f4gI/45Hju/DqZtQvd6EEvLuMKrkbOXptaE0ItpmE6ZmAmZmF2jfV0xdfHjvsxgEEM4QVe4lXkXGw7K0PYVVm+ubM2h3Xn2cEFB3vwMod1XvbgZQ7rvOzByxzWedmDlzms87IHL3NY52UPXuawzssevMxhnZc9eJnDupE91CXD6nMa0IgmLMHS1PN/fRb7ue5juDZ20Z733Z8WtCble1boM1lpTkUIczEP87EAC7Eocl5cwt/be9hBbzL6uz9d6E7K96zQZ7LSRna8CZuxBVuxDdsj5x0l3McgOxhKRn/3px8DSfmeFfpMVjrOjk/gJE7hNM7gbOR8roT7mFwVwhSMw3hMwERMqirfs0KfyUr32PF9PMBDPMJjPImcnzr+/+D/0ufc/2G/4hu+4wd+Rs6/dB9KKaWUUkoppZRSSimllFJKKaXU334DM0vjpA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="taikong_tukuai" tilewidth="8" tileheight="8">
+  <image source="taikong_tukuai.png" width="424" height="276"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt09dJhEEUQOHRQsxgrsYM5mrMYC7AXIS5CXMR5kePb8OiML8OrjDng8PA5S6sVzYESZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSZIkSdJ/0NQQQjO1UCu1UTt1RPNcOyVLvc8A7yAN0TCN0CiNRfNcOyVLvc8c7zwt0CIt0TKtRPNcOyVLvc8x7wmd0hmd0wVdRvNcOyVLvc8j7xM90wu90hu9R/NcOyVLvU9nYwhd1E091Et91B/Nc+2ULPU+47wTNElTNE0zNBvNc+2ULPU+q7xrtE4btElbtB3Nc+3shGpd1VT18/Vol/Zonw7okI4S7vyVeO87uXZqb/1d13RDtxU+U8/i73tH9xXv85e/j9/+ffW+9U//Hw+Jd/70AcdJNr0=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="80" height="40" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="a" tilewidth="16" tileheight="16">
+  <image source="E:/cocos/cocos2dx64/cocos2dx/projects/翻滚吧！/Resources/x.png" width="851" height="23"/>
+ </tileset>
+ <layer name="块层 1" width="80" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2bsNwCAMBUCK7D9zRsAyEAX7TnJHwXNjPmMAAAA7PZOKrIlWN52zAwDADarcYU7ut0qPIlbzVe9PhncDAG7TfSb5BwCAmC9mX4fZu5qpcm+ynNuAP3oBDBgB+Q==
+  </data>
+ </layer>
+</map>

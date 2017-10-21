@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="60" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="捕获(已去底)" tilewidth="8" tileheight="8">
+  <image source="捕获(已去底).png" width="499" height="232"/>
+ </tileset>
+ <layer name="a" width="100" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2slOFFEUh/FT1QXq1glxegJHHEEBJRG3jqjoEziBM6OaKO+CYxQVZxNlBW4dcHalokZFcTbRT+kETYoubyTdVuX/Jb/FPYuu6nsWzQIzpZRSSimllFJKKaWUUkoppZSKR53owvVcv4j61TDPbDhGeLl+k6HpRMrsJNpwCqdT4bMzaHeYRZ0zPcOlJeyhEku9gc+Jc694/9d4g168TYXP3qHPYRZ1zvQMlw6wh4NoSe8j7juZEphNxTRMx4wgfDYTRQ6zqPNgz6gN3N7/Knu4hg6vf69x38lGvv8mbMYWbA3CZzXpu/rbWdQ50zNc+v7zd8M38/z+c9x30sr3P4TDOIKjQfjsGI47zKLOgz3DdR+l7KEM5f7ALM47ecL3f4pn6MHzIHz2Ai8dZlHnTM9wqZE9NKHZ/3Me550kNe3k/+v3ndzIM7uJW7iNbtzBXdzDfTzAQzzC47xcv30y603/TT0y32wURmMMxqIA41CI8ZiAiZiEyfm5fvNkt4z7XY4VWIlVWI0qrMFarEM11mOD9qGUUkoppZRSSimllFJKKaWUUiqhlXhmC7AQpShDORZhMSoS8n/ycamO+65HAxrRhGbsxT7s1z6yWjv3fRbncB4XcBGXcBlXtI+s1sd9v8cHfMQnfMYXfMU37SOrFflmszAbczAX8zAfxSjxoz9DDV213Pc2bMcO7MQu7MYe1GkfSimllPrHfgCFS+B8
+  </data>
+ </layer>
+</map>
